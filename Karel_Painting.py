@@ -3,7 +3,7 @@
 # 
 # Your name:
 # Who did you work with (if anyone)?:
-# If you consulted AI, link to transcript: 
+# If you consulted AI, which one? And link to transcript if available: 
 # Estimate for time spent on this prob (in hrs)?:
 #====================================================
 
