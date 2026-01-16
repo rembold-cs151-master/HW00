@@ -1,11 +1,11 @@
-#====================================================
+#==============================================================================
 # Filename: Karel_Painting.py
 # 
 # Your name:
 # Who did you work with (if anyone)?:
 # If you consulted AI, which one? And link to transcript if available: 
 # Estimate for time spent on this prob (in hrs)?:
-#====================================================
+#==============================================================================
 
 # I've just laid out a basic starting function below, but remember that you
 # absolutely should define more helping functions to decompose the problem

@@ -1,11 +1,11 @@
-#========================================================
+#===============================================================================
 # Filename: Karel_Newspaper.py
 # 
 # Your name:
 # Who did you work with (if anyone)?:
 # If you consulted AI, which one? And link to transcript if available:
 # Estimate for time spent on this problem (in hrs)?:
-#========================================================
+#===============================================================================
 
 # I've just laid out a basic starting function below. 
 # While this problem is fairly simple, you should still practice
